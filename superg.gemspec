@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ['Mark Oates']
   s.email       = ''
   s.files       = ['lib/superg.rb']
-  s.homepage    = ''
+  s.homepage    = 'https://rubygems.org/gems/superg'
   s.license     = 'MIT'
 end
