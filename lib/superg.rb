@@ -1,5 +1,5 @@
 class Superg
-  def self.hi
-    puts "Hello world!"
+  def self.hi(name='human')
+    puts "Hello, #{name}."
   end
 end

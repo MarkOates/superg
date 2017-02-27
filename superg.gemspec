@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ['lib/superg.rb']
   s.homepage    = 'https://rubygems.org/gems/superg'
   s.license     = 'MIT'
+  s.executables = ['superg']
 end

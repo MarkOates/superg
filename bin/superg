@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'superg'
+
+puts Superg.hi(ARGV[0])
